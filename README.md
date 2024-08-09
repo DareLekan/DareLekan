@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/daretosho" target="blank"><img src="https://img.shields.io/twitter/follow/daretosho?logo=twitter&style=for-the-badge" alt="daretosho" /></a> </p>
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **AI Architecting.**
 
 - 👨‍💻 All of my projects are available at [https://oxla.io](https://oxla.io)
 
 - 📝 I regularly write articles on [https://oxla.io](https://oxla.io)
 
-- 💬 Ask me about **Cloud Architecture. Cloud Security. Cost Optimization. Cloud Monitoring. And how to begin your career as a cloud engineer**
+- 💬 Ask me about **Cloud Architecture. Cloud Security. Cost Optimization. Cloud Monitoring. Gen AI. And how to begin your career as a cloud engineer**
 
 - 📫 How to reach me **darelekan46@gmail.com**
 
